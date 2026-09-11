@@ -1,2 +1,3 @@
-# ryoku_hud-src
-ryoku_hud version registry
+# ryoku_hud
+
+Version: `1.0.0`
